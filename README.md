@@ -12,3 +12,7 @@ Chapter 9 Notes:
 Use routing to create simple, user friendly URLs
 Using repositories makes sorting and such so much easier than typing out long, exact SQL queries. Way cool!
 At first I was confused why the "Home" button in the navigation menu didn't light up when the user chose the home option. Home isn't really a category, just a collection of everything. One possible way to improve the project would be to have the home button light up like the other buttons in the navigation.
+
+Chapter 10 Notes:
+The banner at the top technically works, but still looks kinda funny.
+Despite my many notes reminding me to add migrations and update the database, I still missed that step. Luckily I knew exactly what was wrong as soon as VS said it couldn't find the orders table. Someday I'll remember that before I run the code!
